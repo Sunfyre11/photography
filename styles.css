@@ -1,0 +1,40 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    color: midnightblue;
+    text-align: center;
+}
+.img-1, .img-2, .img-3, .img-4 {
+    height: 500px;
+    width: 800px;
+    padding: 20px;
+    border-radius: 40px;
+}
+h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+.img-s {
+    width: 400px;
+    border-radius: 40px;
+    margin: 40px;
+}
+.right {
+    float: right;
+}
+.left {
+    float: left;
+}
+.flam {
+    width: 525px;
+}
+.btn {
+    line-height: 50px;
+    height: 50px;
+    text-align: center;
+    width: 250px;
+    cursor: crosshair;
+}
